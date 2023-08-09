@@ -1,0 +1,19 @@
+Daniel@DESKTOP-J1NFNF3 MINGW64 ~/Desktop/Story (master)
+$ git remote add origin https://github.com/Daniel99Solis/Story.git
+
+Daniel@DESKTOP-J1NFNF3 MINGW64 ~/Desktop/Story (master)
+$ git push -u origin master
+info: please complete authentication in your browser...
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (10/10), 2.65 KiB | 1.32 MiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Daniel99Solis/Story.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+Daniel@DESKTOP-J1NFNF3 MINGW64 ~/Desktop/Story (master)
+$
